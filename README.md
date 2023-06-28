@@ -1,2 +1,3 @@
-# dbAssignmentMUST
-This is an assignment for creation of a database for my Masters of Science at Mbarara University
+*MUST Assignments*
+
+This is a repo for assignments for my Masters of Science Information Systems at Mbarara University
